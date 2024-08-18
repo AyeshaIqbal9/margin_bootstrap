@@ -1,0 +1,27 @@
+
+.blue{
+    background-color: blue;
+}
+.orange{
+    background-color: orange;
+}
+.green{
+    background-color: greenyellow;
+}
+ .red{
+background-color: red;
+ }
+ .brown{
+    background-color:brown ;
+ }.yellow{
+    background-color: yellow;
+ }
+ .pink{
+    background-color: pink;
+ }
+.container{
+    border:solid black 2px;
+}
+.col{
+    border:solid white 3px;
+}
